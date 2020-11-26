@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 28 20:37:30 2020
 
-@author: Bob
-"""
 
 #import modules
 import requests
