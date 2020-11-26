@@ -6,3 +6,7 @@ Dataset is further analyze in Excel.
 ## Tools used:
 - Python
 - Excel (Pivot table, chart)
+
+## A screenshot of the crude oil summary
+<img src="Crude Oil Summary.PNG" width="1000">
+
